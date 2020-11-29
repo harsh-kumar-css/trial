@@ -4,8 +4,8 @@ html {
 
 .first {
   height: 100vh;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(129, 0, 71, 0.747))), url(/admin_backg.jpg);
-  background-image: linear-gradient(rgba(129, 0, 71, 0.747)), url(/admin_backg.jpg);
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(129, 0, 71, 0.747))), url(admin_backg.jpg);
+  background-image: linear-gradient(rgba(129, 0, 71, 0.747)), url(admin_backg.jpg);
   background-size: cover;
   background-attachment: fixed;
   display: -webkit-box;
